@@ -1,0 +1,13 @@
+{
+    "name": "exchangecore/file-manager-installer",
+    "require": {
+      "exchangecore/file-manager": "dev-master"
+    },
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/ExchangeCore/File-Manager.git"
+      }
+    ],
+    "minimum-stability": "dev"
+}
